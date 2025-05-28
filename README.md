@@ -17,6 +17,3 @@
 
 # 📊 GitHub Stats:
 [![VimalvDev's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VimalvDev&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
