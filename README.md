@@ -1,6 +1,4 @@
-# 💫 About Me:
-i am a web developer, currently a frontend dev, learning reactjs. then nextjs and mern stack.<br>in future, i wanna become a software engineer and do devops also.<br>i have work experience of approx 1 year as a ui/ux designer and web developer. <br>i was just a beginner back then, currently improving my skills.
-
+https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vimalvermadev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vimalverma8287@gmail.com) 
