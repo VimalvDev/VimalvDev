@@ -29,3 +29,4 @@
 [![VimalvDev's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VimalvDev&bg_color=00000000&color=9b6eff&line=9b6eff&point=ffffff&title_color=6c21ee&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ![VimalvDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=VimalvDev&show_icons=true&title_color=6c21ee&text_color=dfd0ff&icon_color=9b6eff&bg_color=00000000&border_color=00000000)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VimalvDev&background=00000000&hide_border=true&ring=9b6eff&fire=9b6eff&currStreakNum=dfd0ff&currStreakLabel=6c21ee&sideLabels=6c21ee&sideNums=dfd0ff&dates=dfd0ff)](https://git.io/streak-stats)
