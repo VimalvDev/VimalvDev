@@ -23,7 +23,7 @@
 
 <h2>🚀 Tech & Tools Preference</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,figma,git,github,vscode)](https://skillicons.dev)
 
 ## Other Languages I know
 
