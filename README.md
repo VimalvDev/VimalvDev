@@ -1,4 +1,4 @@
-![](IMGs/LINKDEN-BANNER)
+![](IMGs/LINKDEN-BANNER.jpg)
 
 <h1 align="center">Hi 👋, I'm Vimal</h1>
 <h3 align="center">Frontend Developer | Future Full-Stack & DevOps Engineer 🚀</h3>
@@ -26,7 +26,7 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,figma,git,github,vscode,c,cpp)
 
 
-![](IMGs/code-banner)
+![](IMGs/code-banner.png)
 
 
 # 📊 GitHub Stats:
