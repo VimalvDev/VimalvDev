@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on **creative frontend websites & animation-rich web experiences**
 - ⚡ Fun fact: I love smooth animations, pixel art, and gaming interfaces!
 - 💬 Ask me about **JS animations, responsive layouts, or how to get started with frontend**
-- 🎯 Long-term Goal: Become a **Software Engineer** with skills in **DevOps, Docker, Kubernetes**
+- 🎯 Long-term Goal: Become a **Software Engineer** with skills in **DevOps, Docker**
 
 
 ## 🌐 Socials:
