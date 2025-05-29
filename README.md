@@ -29,7 +29,8 @@
 
 
 # 📊 GitHub Stats:
-[![VimalvDev's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VimalvDev&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![VimalvDev's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VimalvDev&bg_color=00000000&color=9b6eff&line=9b6eff&point=9b6eff&title_color=6c21ee&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 ![VimalvDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=VimalvDev&show_icons=true&title_color=6c21ee&text_color=9b6eff&icon_color=9b6eff&bg_color=00000000&border_color=00000000)
 
