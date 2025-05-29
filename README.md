@@ -4,10 +4,8 @@
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/vimalvermadev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:vimalverma8287@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vimalvermadev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vimalverma8287@gmail.com) 
 
 ## 👨‍💻 About Me
 
@@ -17,10 +15,6 @@
 - ⚡ Fun fact: I love smooth animations, pixel art, and gaming interfaces!
 - 💬 Ask me about **JS animations, responsive layouts, or how to get started with frontend**
 - 🎯 Long-term Goal: Become a **Software Engineer** with skills in **DevOps, Docker**
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vimalvermadev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vimalverma8287@gmail.com) 
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
