@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/vimalvermadev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
+  <a href="mailto:vimalverma8287@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
 </p>
 
 ## 👨‍💻 About Me
