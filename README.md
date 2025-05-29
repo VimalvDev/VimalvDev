@@ -4,6 +4,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vimalvdev&label=Profile%20views&color=0e75b6&style=flat" alt="vimalvdev" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/vimalvermadev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
+</p>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vimalvermadev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vimalverma8287@gmail.com) 
 
