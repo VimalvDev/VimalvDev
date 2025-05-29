@@ -25,9 +25,6 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,figma,git,github,vscode,c,cpp)
 
 
-![](IMGs/code-banner.png)
-
-
 # 📊 GitHub Stats:
 [![VimalvDev's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VimalvDev&bg_color=00000000&color=9b6eff&line=9b6eff&point=9b6eff&title_color=6c21ee&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
