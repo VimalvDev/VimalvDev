@@ -5,13 +5,18 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vimalvdev&label=Profile%20views&color=0e75b6&style=flat" alt="vimalvdev" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/vimalvermadev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
 </p>
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Frontend projects using HTML, CSS, JS, GSAP, Lenis, and SheryJS**
+- 🌱 I’m currently learning **React.js** → soon moving to **Next.js** → **MERN Stack** → **DevOps**
+- 👯 I’m looking to collaborate on **creative frontend websites & animation-rich web experiences**
+- ⚡ Fun fact: I love smooth animations, pixel art, and gaming interfaces!
+- 💬 Ask me about **JS animations, responsive layouts, or how to get started with frontend**
+- 🎯 Long-term Goal: Become a **Software Engineer** with skills in **DevOps, Docker, Kubernetes**
 
 
 ## 🌐 Socials:
