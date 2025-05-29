@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vimal-verma-webdev">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
    <a href="mailto:vimalverma8287@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
