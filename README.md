@@ -18,7 +18,6 @@
 - 🌱 I’m currently learning **React.js** → soon moving to **Next.js** → **MERN Stack** → **DevOps**
 - 👯 I’m looking to collaborate on **creative frontend websites & animation-rich web experiences**
 - ⚡ Fun fact: I love smooth animations, pixel art, and gaming interfaces!
-- 💬 Ask me about **JS animations, responsive layouts, or how to get started with frontend**
 - 🎯 Long-term Goal: Become a **Software Engineer** with skills in **DevOps, Docker**
 
 <h2>🚀 Tech & Tools Preference</h2>
