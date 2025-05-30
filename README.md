@@ -17,6 +17,8 @@
   </a>
 </p>
 
+---
+
 ### 👨‍💻 About Me  
 - 🎯 Building **Frontend Projects** with `HTML`, `CSS`, `JavaScript`, `GSAP`, `Lenis`, `SheryJS`
 - 🌱 Learning `React.js`, soon moving to `Next.js` → `MERN Stack` → `DevOps`
@@ -24,8 +26,6 @@
 - 🎮 Love pixel-art interfaces, smooth GSAP animations, and responsive UI/UX
 - 🧠 Long-Term Goal: Become a **Software Engineer** skilled in `DevOps`, `Docker`
 
----
-  
 <h2>🚀 Tech stack & Tools</h2>
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,figma,git,github,vscode,c,cpp)
