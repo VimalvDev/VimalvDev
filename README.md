@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
 
-<h1  style="display: inline-block; vertical-align: middle align="center">
+<h1  style="display: inline-block; vertical-align: middle align=center">
   Hi 👋, I'm
   <span">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=500&color=FFFFFF&width=435&height=43&lines=Vimal+Verma" alt="Typing SVG" />
