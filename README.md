@@ -26,14 +26,15 @@
 
 
 # 📊 GitHub Stats:
-[![VimalvDev's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VimalvDev&bg_color=00000000&color=1e90ff&line=ff4c4c&point=ffffff&title_color=ff4c4c&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![VimalvDev's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VimalvDev&bg_color=00000000&color=1e90ff&line=1e90ff&point=ffffff&title_color=1e90ff&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=VimalvDev&show_icons=true&title_color=ff4c4c&text_color=ffffff&icon_color=1e90ff&bg_color=00000000&border_color=00000000" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VimalvDev&show_icons=true&title_color=1e90ff&text_color=ffffff&icon_color=1e90ff&bg_color=00000000&border_color=00000000" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
   
   <a href="https://git.io/streak-stats" target="_blank" style="display: block;">
-    <img src="https://streak-stats.demolab.com/?user=VimalvDev&background=00000000&hide_border=true&ring=1e90ff&fire=ff4c4c&currStreakNum=ffffff&currStreakLabel=ff4c4c&sideLabels=ff4c4c&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
+    <img src="https://streak-stats.demolab.com/?user=VimalvDev&background=00000000&hide_border=true&ring=1e90ff&fire=1e90ff&currStreakNum=ffffff&currStreakLabel=1e90ff&sideLabels=1e90ff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
   </a>
 </div>
+
 
 
