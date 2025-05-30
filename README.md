@@ -26,7 +26,7 @@
 - ✨ Passionate about clean, structured design with seamless scroll interactions that tell a story through motion
 - 🧠 Long-Term Goal: Become a **Software Engineer** skilled in `DevOps`, `Docker`
 
-<h2>🚀 Tech stack & Tools</h2>
+<h1>🚀 Tech stack & Tools</h1>
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,figma,git,github,vscode,c,cpp)
 
