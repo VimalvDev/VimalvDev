@@ -1,9 +1,11 @@
 ![](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
 
-<h1 align="center">Hi 👋, I'm</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=1E90FF&width=280&height=45&lines=Vimal+Verma" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  Hi 👋, I'm
+  <span style="display: inline-block; vertical-align: middle;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=500&color=FFFFFF&width=435&height=43&lines=Vimal+Verma" alt="Typing SVG" />
+  </span>
+</h1>
 
 
 
