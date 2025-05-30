@@ -6,7 +6,7 @@
         
 </h1>
 
-<h3 align="center">Frontend Developer 🎨 | Future Full-Stack & DevOps Engineer 🚀</h3>
+<h2 align="center">Frontend Developer 🎨 | Future Full-Stack & DevOps Engineer 🚀</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vimalvermadev/">
@@ -19,7 +19,7 @@
 
 ---
 
-### 👨‍💻 About Me  
+## 👨‍💻 About Me  
 - 🎯 Building **Frontend Projects** with `HTML`, `CSS`, `JavaScript`, `GSAP`, `Lenis`, `SheryJS`
 - 🌱 Learning `React.js`, soon moving to `Next.js` → `MERN Stack` → `DevOps`
 - 🤝 Open to collaborating on **creative frontend websites** & animation-rich experiences
