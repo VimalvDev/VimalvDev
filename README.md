@@ -9,7 +9,7 @@
 <h3 align="center">Frontend Developer 🎨 | Future Full-Stack & DevOps Engineer 🚀</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vimal-verma-webdev">
+  <a href="https://www.linkedin.com/in/vimalvermadev/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
    <a href="mailto:vimalverma8287@gmail.com">
