@@ -3,7 +3,7 @@
 <h1 align="center">
   Hi 👋, I'm
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=FFFFFF&width=300&height=43&lines=Vimal+Verma" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=FFFFFF&width=300&height=23&lines=+Vimal+Verma" alt="Typing SVG" />
   </span>
 </h1>
 
