@@ -44,13 +44,6 @@
 
 ---
 
-### 🎮 Just for Fun
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="220" />
-  <img src="https://media.giphy.com/media/3oEduQAsYcJKQH2XsI/giphy.gif" width="220" />
-</p>
-
 ### 📬 Let's Connect!  
 Feel free to reach out for **collaborations**, **open-source**, or just a quick dev chat 💬
 
