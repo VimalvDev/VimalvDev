@@ -4,7 +4,7 @@
   Hi 👋, I'm
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=1e90ff&width=200&height=45&lines=Vimal+Verma"
                 alt="Typing SVG" 
-    style="display: inline-block; vertical-align: middle; margin-top: 12px;"
+    style="display: inline-block; vertical-align: middle; margin-bottom: 12px;"
   />
 </h1>
 
