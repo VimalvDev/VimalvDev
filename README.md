@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
 
-<h1 align="center">Hi 👋, I'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&vCenter=true&width=150&lines=Vimal" alt="Typing SVG" /> </h1>
+<h1 align="center">Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=23&pause=500&color=FFFFFF&width=435&lines=Vimal+Verma" alt="Typing SVG" /></a> </h1>
 
 <h3 align="center">Frontend Developer 🎨 | Future Full-Stack & DevOps Engineer 🚀</h3>
 
