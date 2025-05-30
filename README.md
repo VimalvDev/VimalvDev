@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+# 👨‍💻 About Me  
 - 🎯 Building **Frontend Projects** with `HTML`, `CSS`, `JavaScript`, `GSAP`, `Lenis`, `SheryJS`
 - 🌱 Learning `React.js`, soon moving to `Next.js` → `MERN Stack` → `DevOps`
 - 🤝 Open to collaborating on **creative frontend websites** & animation-rich experiences
