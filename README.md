@@ -23,7 +23,7 @@
 - 🎯 Building **Frontend Projects** with `HTML`, `CSS`, `JavaScript`, `GSAP`, `Lenis`, `SheryJS`
 - 🌱 Learning `React.js`, soon moving to `Next.js` → `MERN Stack` → `DevOps`
 - 🤝 Open to collaborating on **creative frontend websites** & animation-rich experiences
-- 🎮 Love pixel-art interfaces, smooth GSAP animations, and responsive UI/UX
+- ✨ Passionate about clean, structured design with seamless scroll interactions that tell a story through motion
 - 🧠 Long-Term Goal: Become a **Software Engineer** skilled in `DevOps`, `Docker`
 
 <h2>🚀 Tech stack & Tools</h2>
