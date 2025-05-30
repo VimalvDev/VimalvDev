@@ -2,9 +2,9 @@
 
 <h1 align="center">
   Hi 👋, I'm
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=1e90ff&width=200&height=45&lines=Vimal+Verma"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=1e90ff&width=200&height=45&lines=Hi+,+I'm+Vimal+Verma"
                 alt="Typing SVG" 
-    style="display: inline-block; vertical-align: middle; padding-top: 12px;"
+    style="display: inline-block; vertical-align: middle;"
   />
 </h1>
 
