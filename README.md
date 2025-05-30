@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=1e90ff&width=330&height=45&lines=Hi,i'm+Vimal+Verma" alt="Typing SVG" 
-        style="display: inline-block; vertical-align: middle; />
+        style="display: inline-block; vertical-align: middle;" />
         
 </h1>
 
