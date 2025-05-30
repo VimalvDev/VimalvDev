@@ -1,7 +1,8 @@
 ![](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
 
-<h1 align="center">Hi 👋, I'm Vimal</h1>
-<h3 align="center">Frontend Developer | Future Full-Stack & DevOps Engineer 🚀</h3>
+<h1 align="center">Hi 👋, I'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&vCenter=true&width=150&lines=Vimal" alt="Typing SVG" /> </h1>
+
+<h3 align="center">Frontend Developer 🎨 | Future Full-Stack & DevOps Engineer 🚀</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vimal-verma-webdev">
@@ -12,15 +13,16 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me  
+- 🎯 Building **Frontend Projects** with `HTML`, `CSS`, `JavaScript`, `GSAP`, `Lenis`, `SheryJS`
+- 🌱 Learning `React.js`, soon moving to `Next.js` → `MERN Stack` → `DevOps`
+- 🤝 Open to collaborating on **creative frontend websites** & animation-rich experiences
+- 🎮 Love pixel-art interfaces, smooth GSAP animations, and responsive UI/UX
+- 🧠 Long-Term Goal: Become a **Software Engineer** skilled in `DevOps`, `Docker`
 
-- 🔭 I’m currently working on **Frontend projects using HTML, CSS, JS, GSAP, Lenis, and SheryJS**
-- 🌱 I’m currently learning **React.js** → soon moving to **Next.js** → **MERN Stack** → **DevOps**
-- 👯 I’m looking to collaborate on **creative frontend websites & animation-rich web experiences**
-- ⚡ Fun fact: I love smooth animations, pixel art, and gaming interfaces!
-- 🎯 Long-term Goal: Become a **Software Engineer** with skills in **DevOps, Docker**
-
-<h2>🚀 Tech & Tools Preference</h2>
+---
+  
+<h2>🚀 Tech stack & Tools</h2>
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,figma,git,github,vscode,c,cpp)
 
@@ -36,5 +38,15 @@
   </a>
 </div>
 
+---
 
+### 🎮 Just for Fun
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/3oEduQAsYcJKQH2XsI/giphy.gif" width="220" />
+</p>
+
+### 📬 Let's Connect!  
+Feel free to reach out for **collaborations**, **open-source**, or just a quick dev chat 💬
 
