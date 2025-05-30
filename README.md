@@ -6,9 +6,6 @@
         
 </h1>
 
-
-
-
 <h3 align="center">Frontend Developer 🎨 | Future Full-Stack & DevOps Engineer 🚀</h3>
 
 <p align="center">
