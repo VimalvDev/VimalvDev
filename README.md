@@ -30,7 +30,7 @@
 
 <h1>🚀 Tech stack & Tools</h1>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,figma,git,github,vscode,vercel)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,figma,git,github,vscode,vercel,threejs)
 
 # 📊 GitHub Stats:
 [![VimalvDev's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VimalvDev&bg_color=00000000&color=1e90ff&line=1e90ff&point=ffffff&title_color=1e90ff&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
