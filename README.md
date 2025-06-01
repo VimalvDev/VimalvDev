@@ -34,39 +34,7 @@
 <h1>🚀 Tech stack & Tools</h1>
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="all: unset;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="all: unset;" />
-  </a>
-  <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" style="all: unset;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="all: unset;" />
-  </a>
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" style="all: unset;" />
-  </a>
-  <a href="https://threejs.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" style="all: unset;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" style="all: unset;" />
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="all: unset;" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="all: unset;" />
-  </a>
-  <a href="https://figma.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" style="all: unset;" />
-  </a>
-  <a href="https://vercel.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" style="all: unset;" />
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a><a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a><a href="https://reactjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a><a href="https://threejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" /></a><a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a><a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a><a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a><a href="https://figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a><a href="https://vercel.com" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
 </p>
 
 
