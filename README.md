@@ -44,7 +44,3 @@
 </div>
 
 ![](IMGs/code-banner.png)
-
-### 📬 Let's Connect!  
-Feel free to reach out for **collaborations**, **open-source**, or just a quick dev chat 💬
-
