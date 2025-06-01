@@ -11,11 +11,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vimalvermadev/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-   <a href="mailto:vimalverma8287@gmail.com">
+  </a><a href="mailto:vimalverma8287@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-    <a href="https://x.com/VimalvDeveloper">
+  </a><a href="https://x.com/VimalvDeveloper">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
