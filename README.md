@@ -15,6 +15,9 @@
    <a href="mailto:vimalverma8287@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+    <a href="https://x.com/VimalvDeveloper">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
 
 ---
