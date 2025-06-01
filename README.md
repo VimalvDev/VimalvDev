@@ -8,15 +8,15 @@
 
 <h2 align="center">Frontend Developer 🎨 | Future Full-Stack & DevOps Engineer 🚀</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vimalvermadev/" target="_blank" style="margin-right: 8px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+<p align="center" style="line-height: 0;">
+  <a href="https://www.linkedin.com/in/vimalvermadev/" target="_blank" style="display: inline-block; margin-right: 10px; outline: none; border: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="display: block; border: none;" />
   </a>
-  <a href="mailto:vimalverma8287@gmail.com" target="_blank" style="margin-right: 8px;">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  <a href="mailto:vimalverma8287@gmail.com" target="_blank" style="display: inline-block; margin-right: 10px; outline: none; border: none;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="display: block; border: none;" />
   </a>
-  <a href="https://x.com/VimalvDeveloper" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" />
+  <a href="https://x.com/VimalvDeveloper" target="_blank" style="display: inline-block; outline: none; border: none;">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" style="display: block; border: none;" />
   </a>
 </p>
 
