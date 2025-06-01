@@ -49,8 +49,8 @@
   <a href="https://reactjs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
   </a>
-  <a href="https://figma.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <a href="https://threejs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
@@ -61,13 +61,14 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
   </a>
+  <a href="https://figma.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  </a>
   <a href="https://vercel.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
   </a>
-  <a href="https://threejs.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" />
-  </a>
 </p>
+
 
 
 # 📊 GitHub Stats:
