@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VimalvDev&show_icons=true&title_color=1e90ff&text_color=ffffff&icon_color=1e90ff&bg_color=00000000&border_color=00000000" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
   
   <a href="https://git.io/streak-stats" target="_blank" style="display: block;">
-    <img src="https://streak-stats.demolab.com/?user=VimalvDev&background=00000000&hide_border=true&ring=1e90ff&fire=1e90ff&currStreakNum=ffffff&currStreakLabel=1e90ff&sideLabels=1e90ff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
+    <img src="https://streak-stats.demolab.com/?user=VimalvDev&background=00000000&hide_border=true&ring=1e90ff&fire=1e90ff&currStreakNum=ffffff&currStreakLabel=1e90ff&sideLabels=1e90ff&sideNums=ffffff&dates=ffffff&cache_seconds=86400" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
   </a>
 </div>
 
