@@ -52,7 +52,3 @@
   </a>
 
 </div>
-
-
-
-![](IMGs/code-banner.png)
