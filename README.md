@@ -33,7 +33,7 @@
 
 
 # 📊 GitHub Stats:
-[![VimalvDev's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VimalvDev&bg_color=00000000&color=cccccc&line=cccccc&point=1e90ff&title_color=ffffff&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![VimalvDev's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VimalvDev&bg_color=00000000&color=cccccc&line=ffffff&point=1e90ff&title_color=ffffff&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
