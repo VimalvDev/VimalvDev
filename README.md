@@ -35,20 +35,14 @@
 # 📊 GitHub Stats:
 [![VimalvDev's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VimalvDev&bg_color=00000000&color=cccccc&line=ffffff&point=1e90ff&title_color=ffffff&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=VimalvDev&show_icons=true&title_color=ffffff&text_color=cccccc&icon_color=ffffff&bg_color=00000000&border_color=00000000&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=VimalvDev&background=00000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=cccccc&sideLabels=cccccc&sideNums=cccccc&dates=cccccc" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=VimalvDev&show_icons=true&title_color=ffffff&text_color=cccccc&icon_color=ffffff&bg_color=00000000&border_color=00000000&hide_border=true" 
-    alt="GitHub Stats" 
-    style="max-width: 100%; height: auto;" 
-  />
-
-  <a href="https://git.io/streak-stats" target="_blank" style="display: block;">
-    <img 
-      src="https://streak-stats.demolab.com/?user=VimalvDev&background=00000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=cccccc&sideLabels=cccccc&sideNums=cccccc&dates=cccccc" 
-      alt="GitHub Streak" 
-      style="max-width: 100%; height: auto;" 
-    />
-  </a>
-
-</div>
