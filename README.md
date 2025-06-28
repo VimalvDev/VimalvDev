@@ -1,7 +1,7 @@
 ![](IMGs/GITHUB-BANNER.png)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=1e90ff&width=340&height=45&lines=Hi,+I'm+Vimal+Verma" alt="Typing SVG" 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=e5e5e5&width=340&height=45&lines=Hi,+I'm+Vimal+Verma" alt="Typing SVG" 
         style="display: inline-block; vertical-align: middle;" />
         
 </h1>
