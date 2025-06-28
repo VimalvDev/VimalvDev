@@ -38,20 +38,21 @@
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=VimalvDev&show_icons=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff00&border_color=ffffff00&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=VimalvDev&show_icons=true&title_color=ffffff&text_color=cccccc&icon_color=ffffff&bg_color=00000000&border_color=00000000&hide_border=true" 
     alt="GitHub Stats" 
     style="max-width: 100%; height: auto;" 
   />
 
   <a href="https://git.io/streak-stats" target="_blank" style="display: block;">
     <img 
-      src="https://streak-stats.demolab.com/?user=VimalvDev&background=ffffff00&hide_border=true&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideLabels=000000&sideNums=000000&dates=333333&mode=weekly" 
+      src="https://streak-stats.demolab.com/?user=VimalvDev&background=00000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=cccccc&sideLabels=cccccc&sideNums=cccccc&dates=cccccc" 
       alt="GitHub Streak" 
       style="max-width: 100%; height: auto;" 
     />
   </a>
 
 </div>
+
 
 
 ![](IMGs/code-banner.png)
