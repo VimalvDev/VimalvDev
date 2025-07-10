@@ -17,7 +17,6 @@
   <a href="https://x.com/VimalvDeveloper" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" /></a>
 </p>
 
----
 
 # 👨‍💻 About Me  
 
@@ -25,8 +24,6 @@
 - 🌱 Currently learning `React.js`, will move to `Next.js` → `MERN Stack` → `DevOps`
 - 🤝 Open to collaborating on **creative frontend websites**
 - 🧠 Long-Term Goal: Become a **Software Engineer** skilled in `DevOps`, `Docker`
-
----
 
 <h1>🚀 Tech stack & Tools</h1>
 
@@ -47,6 +44,7 @@
     
 </p>
 
+
 <details>
   <summary>My Tech Stack</summary>
 
@@ -64,7 +62,6 @@
   - Vercel, Vite, NPM
 </details>
 
----
 
 ## 📈 GitHub Stats
 
@@ -81,22 +78,16 @@
   </tr>
 </table>
 
----
-
 ## ✨ Currently Learning
 
 - React.js (practicing projects)
 - Framer Motion (for animation)
 - Building cleaner UI & animation-rich experiences
 
----
-
 ## 🛠️ Future Goals
 - Learn `Next.js` and complete the **MERN Stack**
 - Dive into `TypeScript` and `Framer Motion`
 - Explore `DevOps`, `Docker`, and deployment workflows for scalable apps
-
----
 
 ## 🌐 Connect With Me
 <p align="left">
